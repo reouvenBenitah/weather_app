@@ -1,6 +1,5 @@
 # WeatherApp
 
-##demo the app 
+#demo the app 
 
-![Screen Shot 2020-04-02 at 22 29 56](https://user-images.githubusercontent.com/47301878/78503812-9b602280-7771-11ea-87fc-cd5b5fb99cd1.png)
-
+<img width="1439" alt="Screen Shot 2020-04-03 at 13 44 10" src="https://user-images.githubusercontent.com/47301878/78503902-3c4edd80-7772-11ea-827b-97c9932d54b5.png">
